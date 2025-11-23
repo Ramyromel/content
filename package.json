@@ -52,7 +52,7 @@
     "fdir": "^6.1.1",
     "gray-matter": "^4.0.3",
     "husky": "9.0.11",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "lint-staged": "15.2.10",
     "markdownlint-cli2": "0.12.1",
     "markdownlint-rule-search-replace": "1.2.0",
